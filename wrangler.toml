@@ -1,5 +1,5 @@
 name = "bolt-diy" # Nome do projeto (substitua pelo que preferir)
 main = "src/index.js" # Arquivo principal do projeto
 compatibility_date = "2025-01-27" # Data atual
-account_id = "SEU_ACCOUNT_ID" # Substitua pelo ID da sua conta Cloudflare
+account_id = "370b6f013b5d3d2b270f2bbb20952d9a" # Substitua pelo ID da sua conta Cloudflare
 workers_dev = true # Deploy no ambiente de desenvolvimento
